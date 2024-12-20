@@ -1,5 +1,5 @@
 # Projects
-Testcases project 
+Testcases project
 Projects related to Manual Software testing
 
 Project :
