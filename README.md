@@ -22,6 +22,7 @@ This repository contains projects related to **Manual Software Testing**. The fo
 ### 1. Test Scenarios and Test Cases
 - Documentation of test scenarios and cases.
 - Specific focus on [Facebook Sign up and Login page](https://docs.google.com/spreadsheets/d/1YxO8hZD_a-QplXftEZGxTxY309fHf_3Bd1LAhPZ3gxQ/edit?usp=sharing).
+- Created Test scenarios on [Trello](https://trello.com/b/MO0a5yaK/facebook)
 
 ### 2. Bug Reports
 - Bug reports are maintained and accessible through Trello.
